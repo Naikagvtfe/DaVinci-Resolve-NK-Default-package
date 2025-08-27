@@ -20,10 +20,6 @@ _
 _  
 _  
 _  
-# 版本資訊
-### **預設包版本**  －　NK1.5_OVb1 (OpenVersionBETA)
-### **適用版本**    －　DaVinci Resolve 20 **_(舊版本可能導致崩潰！)_**
-
 # 社群連結
 [Twitter](https://x.com/Naika_Gvtfe)  
 [Discord 群組](https://discord.gg/mZhC2ECgDc)
