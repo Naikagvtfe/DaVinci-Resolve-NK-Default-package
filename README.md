@@ -1,5 +1,5 @@
 # 達芬奇 免費預設包！
-![](https://github.com/Naikagvtfe/DaVinci-Resolve-NK-Default-package/blob/main/image/NK_logo_s.png)
+![](https://github.com/Naikagvtfe/DaVinci-Resolve-NK-Default-package/blob/main/image/drfxtitlelogo.png)
 
 ## 增加效率！剪片好幫手！
   本預設包加入了一些常用、簡單且可能大量的預設，目的只有一個－－ **_增加效率_**
