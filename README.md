@@ -55,31 +55,31 @@ _
 | ![](https://github.com/Naikagvtfe/DaVinci-Resolve-NK-Default-package/blob/main/image/DP_image/NP1.png) | ![](https://github.com/Naikagvtfe/DaVinci-Resolve-NK-Default-package/blob/main/image/DP_image/NP2.png) |
 | **標籤** | **便條紙** |
 
-## 16種特效(E)
+## 21種特效(E)
 ### F系列(濾鏡特效)
-| :star: |
-|:-------------------------:|
-| ![](https://github.com/Naikagvtfe/DaVinci-Resolve-NK-Default-package/blob/main/image/DP_image/EF1.png) | 
-| **下雨** |
+| :pencil2: | :pencil2: | :pencil2: |
+|:-------------------------:|:-------------------------:|:-------------------------:|
+| ![](https://github.com/Naikagvtfe/DaVinci-Resolve-NK-Default-package/blob/main/image/DP_image/EF1.png) | ![](https://github.com/Naikagvtfe/DaVinci-Resolve-NK-Default-package/blob/main/image/DP_image/EF2.png) | ![](https://github.com/Naikagvtfe/DaVinci-Resolve-NK-Default-package/blob/main/image/DP_image/EF3.png) | 
+| **下雨** | **雜訊** | **CRT** |
 
 ### T系列(字體特效)
-| :pencil2: | :pencil2: | :pencil2: | :pencil2: |
-|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|
-| ![](https://github.com/Naikagvtfe/DaVinci-Resolve-NK-Default-package/blob/main/image/DP_image/ET1.png) | ![](https://github.com/Naikagvtfe/DaVinci-Resolve-NK-Default-package/blob/main/image/DP_image/ET2.png) | ![](https://github.com/Naikagvtfe/DaVinci-Resolve-NK-Default-package/blob/main/image/DP_image/ET3.png) | ![](https://github.com/Naikagvtfe/DaVinci-Resolve-NK-Default-package/blob/main/image/DP_image/ET4.png) |
-| **深度** | **外邊框** | **光條滑過** | **扭曲抖動** |
+| :pencil2: | :pencil2: | :pencil2: | :pencil2: | :pencil2: |
+|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|
+| ![](https://github.com/Naikagvtfe/DaVinci-Resolve-NK-Default-package/blob/main/image/DP_image/ET1.png) | ![](https://github.com/Naikagvtfe/DaVinci-Resolve-NK-Default-package/blob/main/image/DP_image/ET2.png) | ![](https://github.com/Naikagvtfe/DaVinci-Resolve-NK-Default-package/blob/main/image/DP_image/ET3.png) | ![](https://github.com/Naikagvtfe/DaVinci-Resolve-NK-Default-package/blob/main/image/DP_image/ET4.png) | ![](https://github.com/Naikagvtfe/DaVinci-Resolve-NK-Default-package/blob/main/image/DP_image/ET5.png) |
+| **深度** | **外邊框** | **光條滑過** | **扭曲抖動** | **光條滑過** |
 
 ### E系列(特效特效)
 | :star: :pencil2: | :star: | :star: :pencil2: | :pencil2: | :pencil2: |
 |:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|
 | ![](https://github.com/Naikagvtfe/DaVinci-Resolve-NK-Default-package/blob/main/image/DP_image/E1.png) | ![](https://github.com/Naikagvtfe/DaVinci-Resolve-NK-Default-package/blob/main/image/DP_image/E2.png) | ![](https://github.com/Naikagvtfe/DaVinci-Resolve-NK-Default-package/blob/main/image/DP_image/E3.png) | ![](https://github.com/Naikagvtfe/DaVinci-Resolve-NK-Default-package/blob/main/image/DP_image/E4.png) | ![](https://github.com/Naikagvtfe/DaVinci-Resolve-NK-Default-package/blob/main/image/DP_image/E5.png) |
-| **運鏡** | **變色縮放** | **靈魂出竅** | **砸落** | **發光入場** |  
+| **運鏡** | **變色縮放** | **靈魂出竅** | **砸落** | **EZ去綠幕** |  
   
 
 ### L系列(循環特效)
-| :pencil2: | :pencil2: |
-|:-------------------------:|:-------------------------:|
-| ![](https://github.com/Naikagvtfe/DaVinci-Resolve-NK-Default-package/blob/main/image/DP_image/LE1.png) | ![](https://github.com/Naikagvtfe/DaVinci-Resolve-NK-Default-package/blob/main/image/DP_image/LE2.png) |
-| **閃爍** | **果凍** |
+| :pencil2: | :pencil2: | :pencil2: | :pencil2: |
+|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|
+| ![](https://github.com/Naikagvtfe/DaVinci-Resolve-NK-Default-package/blob/main/image/DP_image/LE1.png) | ![](https://github.com/Naikagvtfe/DaVinci-Resolve-NK-Default-package/blob/main/image/DP_image/LE2.png) | ![](https://github.com/Naikagvtfe/DaVinci-Resolve-NK-Default-package/blob/main/image/DP_image/LE3.png) | ![](https://github.com/Naikagvtfe/DaVinci-Resolve-NK-Default-package/blob/main/image/DP_image/LE4.png) |
+| **閃爍** | **果凍** | **位移** | **旋轉** |
 
 ### IO系列(進出場特效)
 | :pencil2: | :pencil2: | :pencil2: | :pencil2: |
