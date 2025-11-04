@@ -36,31 +36,28 @@ _
 (打 :star: 者請搭配調整片段使用)  
 (打 :pencil2: 者可直接套在字體、素材上)  
 
-## 7種生成器(G)
-### F系列(濾鏡相關)
-| |
-|:-------------------------:|
-| ![](https://github.com/Naikagvtfe/DaVinci-Resolve-NK-Default-package/blob/main/image/DP_image/GF1.png) | 
-| **RGB** |
+## 10種生成器(G)
 
 ### M系列(素材相關)
 | | | | |
 |:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|
 | ![](https://github.com/Naikagvtfe/DaVinci-Resolve-NK-Default-package/blob/main/image/DP_image/GM1.png) | ![](https://github.com/Naikagvtfe/DaVinci-Resolve-NK-Default-package/blob/main/image/DP_image/GM2.png) | ![](https://github.com/Naikagvtfe/DaVinci-Resolve-NK-Default-package/blob/main/image/DP_image/GM3.png) | ![](https://github.com/Naikagvtfe/DaVinci-Resolve-NK-Default-package/blob/main/image/DP_image/GM4.png) |
 | **上下邊框** | **閃光** | **速度線** | **直向速度線** |
+| ![](https://github.com/Naikagvtfe/DaVinci-Resolve-NK-Default-package/blob/main/image/DP_image/GM5.png) | ![](https://github.com/Naikagvtfe/DaVinci-Resolve-NK-Default-package/blob/main/image/DP_image/GM6.png) |  |  |
+| **RGB** | **光條聚焦** |  |  |
 
 ### NP系列(便條紙)
-| | |
-|:-------------------------:|:-------------------------:|
-| ![](https://github.com/Naikagvtfe/DaVinci-Resolve-NK-Default-package/blob/main/image/DP_image/NP1.png) | ![](https://github.com/Naikagvtfe/DaVinci-Resolve-NK-Default-package/blob/main/image/DP_image/NP2.png) |
-| **標籤** | **便條紙** |
+| | | | |
+|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|
+| ![](https://github.com/Naikagvtfe/DaVinci-Resolve-NK-Default-package/blob/main/image/DP_image/NP1.png) | ![](https://github.com/Naikagvtfe/DaVinci-Resolve-NK-Default-package/blob/main/image/DP_image/NP2.png) | ![](https://github.com/Naikagvtfe/DaVinci-Resolve-NK-Default-package/blob/main/image/DP_image/NP3.png) | ![](https://github.com/Naikagvtfe/DaVinci-Resolve-NK-Default-package/blob/main/image/DP_image/NP4.png) |
+| **標籤** | **便條紙** | **對話框** | **對話泡泡** |
 
-## 21種特效(E)
+## 22種特效(E)
 ### F系列(濾鏡特效)
-| :pencil2: | :pencil2: | :pencil2: |
-|:-------------------------:|:-------------------------:|:-------------------------:|
-| ![](https://github.com/Naikagvtfe/DaVinci-Resolve-NK-Default-package/blob/main/image/DP_image/EF1.png) | ![](https://github.com/Naikagvtfe/DaVinci-Resolve-NK-Default-package/blob/main/image/DP_image/EF2.png) | ![](https://github.com/Naikagvtfe/DaVinci-Resolve-NK-Default-package/blob/main/image/DP_image/EF3.png) | 
-| **下雨** | **雜訊** | **CRT** |
+| :pencil2: | :pencil2: | :pencil2: | :pencil2: |
+|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|
+| ![](https://github.com/Naikagvtfe/DaVinci-Resolve-NK-Default-package/blob/main/image/DP_image/EF1.png) | ![](https://github.com/Naikagvtfe/DaVinci-Resolve-NK-Default-package/blob/main/image/DP_image/EF2.png) | ![](https://github.com/Naikagvtfe/DaVinci-Resolve-NK-Default-package/blob/main/image/DP_image/EF3.png) | ![](https://github.com/Naikagvtfe/DaVinci-Resolve-NK-Default-package/blob/main/image/DP_image/EF4.png) |
+| **下雨** | **雜訊** | **CRT** | **監視器** |
 
 ### T系列(字體特效)
 | :pencil2: | :pencil2: | :pencil2: | :pencil2: | :pencil2: |
