@@ -20,6 +20,16 @@ _
 _  
 _  
 _  
+## 該如何下載？
+  1.先點此連結>>[點我到下載頁](https://github.com/Naikagvtfe/DaVinci-Resolve-NK-Default-package/releases)  
+  2.找到需要的版本之後，往下滑找到此處  
+  <img width="500" alt="image" src="https://github.com/user-attachments/assets/2e79471b-6b7e-40e6-ada7-476b89b7c283" />  
+  3.點第一個ZIP檔即可下載(以圖為範例，點選**NK1.6_OVb4.zip**即可下載)  
+
+
+_  
+_  
+_  
 # 社群連結
 [Twitter](https://x.com/Naika_Gvtfe)  
 [Discord 群組](https://discord.gg/mZhC2ECgDc)
